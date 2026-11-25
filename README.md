@@ -17,13 +17,13 @@ Tercero
 
   - Comunicación entre usuarios (HU-023) 5 horas IMPRESCINDIBLE
   - Borrar publicaciones (HU-005) 2 horas IMPRESCINDIBLE
-  - Administrador:
+  
+Administrador:
+
   - Borrar publicaciones (HU-017) 2 horas IMPRESCINDIBLE
   - Borrar usuarios (HU-018) 3 horas IMPRESCINDIBLE
   - Atención al cliente (HU-021) 3 horas IMPRESCINDIBLE  
   - Contactar con usuarios (HU-022) 3 horas IMPRESCINDIBLE
-
-  
   - Reportar publicaciones y usuarios (HU-015) 4 horas
   - Recuperar contraseñas (HU-020) 5 horas
   - Guardar publicaciones de otros usuarios (HU-010) 2 horas
